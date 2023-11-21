@@ -1,4 +1,4 @@
-# Test REST API Services using Ruby, Cucumber (Gherkin), Watir and Generate HTML Reports
+# Test REST API Services and UI automation using Ruby, Cucumber (Gherkin), Watir and Generate HTML Reports
 
 This repository provides a framework and example code for testing RESTful API and Web UI automation services using Ruby, Watir, HTTParty and Cucumber (Gherkin). 
 The tests are designed to ensure the functionality of REST APIs and generate HTML reports to provide clear and organized test results.
